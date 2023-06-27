@@ -1,6 +1,6 @@
 # tindogproject
 My First Website 
-To visit on my website click on link :
+To visit on my website click on link : https://chiragmalviya.github.io/TinDog/
 
 **Tindog Website**
 
@@ -15,7 +15,7 @@ The following technologies were used to develop this website:
 
 Getting Started To get a local copy of this project, you can follow these steps:
 
-Clone the repository: 
+Clone the repository:  https://chiragmalviya.github.io/TinDog/
 
 Navigate to the project directory: cd your-repository Open the index.html file in your preferred web browser.
 
